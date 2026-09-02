@@ -1,0 +1,7 @@
+diff a/.vscode/extensions.json b/.vscode/extensions.json	(rejected hunks)
+@@ -1,5 +0,0 @@
+-{
+-    "recommendations": [
+-      "visualstudiotoolsforunity.vstuc"
+-    ]
+-}
